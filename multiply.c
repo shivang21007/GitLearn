@@ -4,6 +4,6 @@ int main(){
     int a,b;
     a=9;
     b=7;
-    printf("%d",a*b); 
+    printf("this is multiply %d",a*b); 
 return 0;
 }
